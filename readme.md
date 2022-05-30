@@ -6,7 +6,7 @@ A recreation of the analysis in the journal paper titled *Analytical model for t
 1) Clone this repository and use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies (which are numpy, scipy, and matplotlib).
 
     ```bash
-    git clone ...
+    git clone https://github.com/jaimeliew1/Power-yaw-exponent-example.git
     pip install foobar
     ```
 
