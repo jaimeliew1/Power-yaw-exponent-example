@@ -15,4 +15,8 @@ A recreation of the analysis in the journal paper titled *Analytical model for t
 
 
 ## Usage
-
+Run the `process_dataset.py`script in Python:
+```bash
+python src/process_dataset.py
+```
+This should produce a table of alpha values for a given downstream distance in the `out`folder.
